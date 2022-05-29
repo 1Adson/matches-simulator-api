@@ -1,0 +1,19 @@
+[
+  {
+  "descricao": "Eliminatorias copa 2022",
+  "local":{
+    "nome": "maracana",
+    "imagem":
+    }
+  "mandante":{
+  "nome": "brasil",
+  "forca": 5,
+  "imagem":
+    }
+    "visitante":{
+    "nome": "argentina"
+    "forca": 4,
+    "imagem":
+    }
+  }
+]
